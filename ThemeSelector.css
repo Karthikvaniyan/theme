@@ -1,0 +1,34 @@
+.container {
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.theme-selector {
+    margin-bottom: 10px;
+}
+
+/* Styles for the paragraph box */
+.paragraph-box {
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+/* Theme-specific styles */
+.Karthik {
+    background-color: #ffe5b4;
+    color: #804000;
+}
+
+.Darshan {
+    background-color: #14c600;
+    color: #ffffff;
+}
+
+.blue {
+    background-color: #cce7ff;
+    color: #003366;
+}
