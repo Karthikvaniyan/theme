@@ -18,17 +18,17 @@
 }
 
 /* Theme-specific styles */
-paragraph-box Karthik {
+ .Karthik {
     background-color: #ffe5b4;
     color: #804000;
 }
 
-paragraph-box Darshan {
+ .Darshan {
     background-color: #14c600;
     color: #ffffff;
 }
 
-paragraph-box Chirag {
+.Chirag {
     background-color: #cce7ff;
     color: #003366;
 }
